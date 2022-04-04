@@ -177,26 +177,26 @@ figcaption {
 }
 .darkgreen {
     
-    background-color: rgba(78, 158, 89, 0.65);
+    background-color: rgba(58, 255, 84, 0.65);
 
 }
 
-.green {
-    background-color: rgb(139, 184, 139, 0.65);
+.yellow {
+    background-color: rgba(255, 245, 106, 0.65);
 }
 
-#moxie:not(.active) {
-    top: 60%;
-    left: 74%;
+#CD7:not(.active) {
+    top: 35%;
+    left: 35%;
 }
 
-.purple {
-    background-color: rgba(235, 168, 235, 0.65);
+.orange {
+    background-color: rgba(228, 129, 0, 0.65);
 }
 
-#arm:not(.active) {
-    top: 48%;
-    left: 59%;
+#CD5:not(.active) {
+    top: 45%;
+    left: 28%;
 }
 
 #CD3:not(.active) {
@@ -205,12 +205,12 @@ figcaption {
 }
 
 .red {
-    background-color: rgb(226, 77, 77, 0.65);
+    background-color: rgba(219, 87, 87, 0.938);
 }
 
-#battery:not(.active) {
-    top: 40%;
-    left: 14%;
+#CD4:not(.active) {
+    top: 55%;
+    left: 25%;
 }
 
 .blue {
